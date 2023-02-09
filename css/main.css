@@ -326,6 +326,10 @@ li {
   list-style: inside url("../media/svg/circle.svg");
 }
 
+#contact-header {
+  background-color: #fff;
+}
+
 #contact {
   display: flex;
   flex-direction: column;
@@ -336,7 +340,7 @@ li {
   font-family: 'Inter', sans-serif;
   font-weight: 700;
   font-size: 2rem;
-  color: #172b4d;
+  color: red;
   margin: 30% 10% 10% 10%;
   align-self: center;
   line-height: 44px;
